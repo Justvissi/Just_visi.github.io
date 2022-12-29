@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(240, 255, 255, 0.838);
+}
+
+#Activity {
+  background-color: rgba(240, 255, 255, 0.838);
+}
+
+section {
+  padding-top: 5rem;
+}
